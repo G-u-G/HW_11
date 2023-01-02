@@ -1,6 +1,5 @@
-a) Instructions: 
-
-##Main Branch
+## Main Branch
 This change is made in main branch
-##myBranch
+
+## myBranch
 This change is made in myBranch 
